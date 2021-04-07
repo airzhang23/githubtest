@@ -1,4 +1,5 @@
 # githubtest
 learn Github
 
-conciousness is the key for a human being.
+Conciousness is the key for a human being.
+Meditation is a tool to get conciousness.
